@@ -1,0 +1,27 @@
+.layout-container{
+    background-color: #F0F2F5;
+    height: 100vh;
+}
+
+.layout-container-inner{
+    background-color: white;
+    height: 80%;
+    width: 80%;
+}
+
+.Navbar{
+    width: 30%;
+    height: 50px;
+}
+
+.link a{
+    color: black;
+    font-size: 17px;
+    text-decoration: none;
+}
+
+.link a:hover {
+    color: blue;
+    font-size: 20px;
+    transition: 0.2s;
+  }
